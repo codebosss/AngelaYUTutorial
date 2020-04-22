@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+}
+
+h1{
+	margin-top: 0;
+}
+.topContainer{
+	background-color:powderblue;
+	margin: 0;
+}
+
+.midContainer{
+	background-color: red;
+	height: 200px;
+	width: 200px;
+}
+.bottomContainer{
+	background-color: blue;
+	height: 200px;
+	width: 200px;
+}
