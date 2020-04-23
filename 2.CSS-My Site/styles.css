@@ -89,7 +89,13 @@ a{
 }
 .profile p{
 	width: 30%;
-	margin:auto;
+	margin: 50px auto;
+}
+.skills{
+	margin:50px auto;
+}
+.contact-me{
+	margin:50px auto;
 }
 .icon i{
 	margin:0px 30px;
